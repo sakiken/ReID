@@ -1,0 +1,5 @@
+3.8<=python<=3.9	
+torch==1.9.0
+torchvision==0.10.0
+pyqt==5.9.2
+如果使用CUDA，注意CUDA版本与torch版本匹配
