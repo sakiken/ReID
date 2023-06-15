@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="img">
+    <file>ui/assert/135.jpg</file>
+    <file>ui/assert/18.jpg</file>
+    <file>ui/assert/file_open.png</file>
+    <file>ui/assert/215.jpg</file>
+    <file>ui/assert/icon.jpg</file>
+    <file>ui/assert/135.png</file>
+    <file>ui/assert/18.png</file>
+    <file>ui/assert/215.png</file>
+    <file>ui/assert/icon.png</file>
+  </qresource>
+  <qresource/>
+</RCC>
